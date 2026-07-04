@@ -1,0 +1,12 @@
+function b(){
+begin
+while(Y) do
+Y=Y-1;}
+end;
+
+void main(){
+begin
+if(X-2)then
+B();
+}
+end;
