@@ -21,9 +21,9 @@
 ## Part 2: Analyzing TCP/IP Traffic
 
 ### 1. TCP Three-Way Handshake:
-* **SYN Packet:** [ضعي هنا اسم صورة الـ SYN]
-* **SYN-ACK Packet:** [ضعي هنا اسم صورة الـ SYN-ACK]
-* **ACK Packet:** [ضعي هنا اسم صورة الـ ACK]
+<img width="1812" height="142" alt="image" src="https://github.com/user-attachments/assets/7f834580-d531-466e-a8db-643c78d5eede" />
+
+
 
 ### 2. Sequence & Acknowledgment Numbers:
 * **Sequence Number (Seq):** [أدخلي الرقم الموجود في Wireshark]
