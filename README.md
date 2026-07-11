@@ -1,5 +1,13 @@
-# CS471 -  Lab 0
-    Student Name:لمى العويمر
-    Lab 0: Initial Setup and Django Environment
-    
- ## Screenshots:<img width="1902" height="1016" alt="image" src="https://github.com/user-attachments/assets/249dd739-e9ce-4a7f-a15b-8351d531e000" />
+# 💻 CS471 - Web Technologies Labs
+
+Welcome to my Web Technologies lab repository! This repository contains all my practical work, projects, and documentation for the course.
+
+## 📚 Table of Contents (الفهرس)
+
+Click on any lab below to view the full report, code snippets, and screenshots:
+
+*  [**Lab 0: Environment Setup & Introduction**](./Lab0_Report.md)
+*  [**Lab 1: Analyzing Network Traffic (Wireshark)**](./Wireshark_Lab/Lab1_Report.md)
+*  [**Lab 2: Version Control using Git & GitHub**](./Lab2_Report.md)
+*  [**Lab 3: Django Views, URLs, and Templates**](./libraryproject/Lab3_Report.md)
+
