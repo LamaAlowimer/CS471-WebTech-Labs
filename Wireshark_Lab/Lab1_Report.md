@@ -26,23 +26,22 @@
 
 
 ### 2. Sequence & Acknowledgment Numbers:
-* **Sequence Number (Seq):** [أدخلي الرقم الموجود في Wireshark]
-* **Acknowledgment Number (Ack):** [أدخلي الرقم الموجود في Wireshark]
+* **Sequence Number (Seq):** 
+* **Acknowledgment Number (Ack):**
 
 ### 3. TCP Termination (FIN, ACK):
-*(ضعي هنا اسم صورة الـ FIN/ACK)*
 
 ---
 
 ## Part 3: Capturing and Analyzing UDP Traffic
 
 ### 1. UDP Packets Capture Screenshot:
-*(ضعي هنا اسم صورة الـ UDP)*
+
 
 ### 2. UDP Packet Details:
-* **Source Port:** [أدخلي المنفذ]
-* **Destination Port:** [أدخلي المنفذ]
-* **Length:** [أدخلي الطول]
+* **Source Port:** 
+* **Destination Port:** 
+* **Length:** 
 
 ---
 
