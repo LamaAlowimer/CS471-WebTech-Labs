@@ -1,4 +1,4 @@
-# Lab Report 1: Protocol Analysis with Wireshark
+# Lab Report 1: 
 
 **Student Name:** لمى العويمر 
 **Student ID:** 432205254
