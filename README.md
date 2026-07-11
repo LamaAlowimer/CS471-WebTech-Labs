@@ -1,4 +1,4 @@
-# CS471 - Web Technologies Lab Work
+# CS471 -  Lab 0
     Student Name:لمى العويمر
     Lab 0: Initial Setup and Django Environment
     
