@@ -14,7 +14,11 @@
 ### 2. Packet Analysis:
 * **Request Method:** GET
 * **Requested URL:** /online
+* <img width="461" height="76" alt="image" src="https://github.com/user-attachments/assets/f5276b10-22f9-4184-a95b-53110e30b21e" />
+
 * **Response Code:** 301
+* <img width="518" height="86" alt="image" src="https://github.com/user-attachments/assets/2a73ed50-fad9-41c1-8dff-8b3d696cdbbf" />
+
 
 ---
 
