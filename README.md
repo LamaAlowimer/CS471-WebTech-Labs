@@ -1,8 +1,9 @@
 # 💻 CS471 - Web Technologies Labs
+**Student Name:** لمى العويمر 
+**Student ID:** 432205254
+**Course:** Web Technologies (CS471)  
 
-Welcome to my Web Technologies lab repository! This repository contains all my practical work, projects, and documentation for the course.
-
-## 📚 Table of Contents (الفهرس)
+## 📚 Table of Contents 
 
 Click on any lab below to view the full report, code snippets, and screenshots:
 
