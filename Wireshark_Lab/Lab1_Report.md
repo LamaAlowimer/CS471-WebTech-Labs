@@ -9,7 +9,8 @@
 ## Part 1: Capturing HTTP Traffic
 
 ### 1. HTTP Packets Capture Screenshot:
-!(image_771a3a.png)
+<img width="925" height="487" alt="image" src="https://github.com/user-attachments/assets/5bb4cfa3-0c34-4c67-8ce0-a4b6fe591de6" />
+
 
 ### 2. Packet Analysis:
 * **Request Method:** GET
@@ -23,6 +24,9 @@
 ---
 
 ## Part 2: Analyzing TCP/IP Traffic
+**in this picture we can see the conversation between the client &  the server.
+<img width="1021" height="668" alt="image" src="https://github.com/user-attachments/assets/5ace30bc-ccf8-4187-bf0f-28bb877ee707" />
+
 
 ### 1. TCP Three-Way Handshake:
 <img width="1812" height="142" alt="image" src="https://github.com/user-attachments/assets/7f834580-d531-466e-a8db-643c78d5eede" />
