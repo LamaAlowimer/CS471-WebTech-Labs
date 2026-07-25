@@ -8,8 +8,19 @@
 
 ## Part 1: Capturing HTTP Traffic
 
-### 1. HTTP Packets Capture Screenshot:
-<img width="925" height="487" alt="image" src="https://github.com/user-attachments/assets/5bb4cfa3-0c34-4c67-8ce0-a4b6fe591de6" />
+### 1. HTTP Capture Screenshot:
+1-HTTP packet to view its details.
+<img width="1457" height="272" alt="image" src="https://github.com/user-attachments/assets/b0a9faa4-9c57-4bac-a008-6a8ec760ce73" />
+these are its details:
+<img width="1508" height="875" alt="image" src="https://github.com/user-attachments/assets/67074e90-ff66-4316-872c-3ec74a0cc39e" />
+What I observed From the captured packets:
+ there is mulitiple GET and it's becuse each peace of the web page needs it's own GET follwoed by 200 OK which indicates that the it was successful, like in this picture the browser (client) asked the server for the HTML text wich is the page in general but it was removed to a deffernet location so it responded with 301 then it requested another GET and it was succsesful <img width="1331" height="120" alt="image" src="https://github.com/user-attachments/assets/13d2fb91-d54c-4f79-8805-97fb27b433ec" />
+after it asked for the icon that appers next to the title of the web page then it responsed with PNG the picture of it <img width="1352" height="47" alt="image" src="https://github.com/user-attachments/assets/8edb0011-aa5c-4d16-b648-0cd00eb2da23" />
+<img width="530" height="141" alt="image" src="https://github.com/user-attachments/assets/6a8280c8-cc99-4d14-a5c6-a2fa962c5883" />
+
+
+
+
 
 
 ### 2. Packet Analysis:
