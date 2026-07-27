@@ -18,11 +18,6 @@ What I observed From the captured packets:
 after it asked for the icon that appers next to the title of the web page then it responsed with PNG the picture of it <img width="1352" height="47" alt="image" src="https://github.com/user-attachments/assets/8edb0011-aa5c-4d16-b648-0cd00eb2da23" />
 <img width="530" height="141" alt="image" src="https://github.com/user-attachments/assets/6a8280c8-cc99-4d14-a5c6-a2fa962c5883" />
 
-
-
-
-
-
 ### 2. Packet Analysis:
 * **Request Method:** GET
 * **Requested URL:** /online
@@ -30,50 +25,44 @@ after it asked for the icon that appers next to the title of the web page then i
 
 * **Response Code:** 301
 * <img width="518" height="86" alt="image" src="https://github.com/user-attachments/assets/2a73ed50-fad9-41c1-8dff-8b3d696cdbbf" />
-
-
 ---
 
-## Part 2: Analyzing TCP/IP Traffic
+## Part 2: TCP/IP Traffic
 **in this picture we can see the conversation between the client &  the server.
-<img width="1021" height="668" alt="image" src="https://github.com/user-attachments/assets/5ace30bc-ccf8-4187-bf0f-28bb877ee707" />
+<img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/adf62dce-8a7b-40db-b4e3-a83235a80d89" />
+
 
 
 ### 1. TCP Three-Way Handshake:
-<img width="1812" height="142" alt="image" src="https://github.com/user-attachments/assets/7f834580-d531-466e-a8db-643c78d5eede" />
-
-
-
-### 2. Sequence & Acknowledgment Numbers:
-* **Sequence Number (Seq):** 
-* **Acknowledgment Number (Ack):**
-
-### 3. TCP Termination (FIN, ACK):
+<img width="1754" height="155" alt="image" src="https://github.com/user-attachments/assets/2164ef27-733d-4c96-9f7f-ffa84e87c96b" />
+### TCP data packets exchanged between the client and server
+<img width="1801" height="123" alt="image" src="https://github.com/user-attachments/assets/3e6b563e-39c8-46e2-ae75-c888087690a7" />
+### TCP termination process (FIN, ACK packets):
+<img width="1853" height="933" alt="image" src="https://github.com/user-attachments/assets/3fe5231d-89ef-41ee-9bfd-b76996164a13" />
 
 ---
 
 ## Part 3: Capturing and Analyzing UDP Traffic
 
 ### 1. UDP Packets Capture Screenshot:
+<img width="1900" height="914" alt="image" src="https://github.com/user-attachments/assets/6400f3cf-725c-4512-94d5-1b4d52da2c4e" />
 
 
 ### 2. UDP Packet Details:
-* **Source Port:** 
-* **Destination Port:** 
-* **Length:** 
+* **Source Port,Destination Port,Length:** <img width="889" height="191" alt="image" src="https://github.com/user-attachments/assets/7963c9fa-fed9-47d4-9a6b-b986800b8b27" />
 
+* **Data:** <img width="1909" height="417" alt="image" src="https://github.com/user-attachments/assets/20074136-ea34-4d5b-a020-cec2079650ea" />
 ---
-
 ## Part 4: Comparing TCP and UDP
 
-### Table 1: Reliability and Integrity
+### 1: Reliability and Integrity
 
 | Criteria | Protocol | Reasons |
 | :--- | :--- | :--- |
 | **Reliability & Connection** | TCP | Uses a three-way handshake and acknowledgments to ensure delivery. |
 | **Data Integrity & Ordering** | TCP | Uses sequence numbers to reassemble packets in the correct order. |
 
-### Table 2: Use Cases and Performance
+### 2: Use Cases and Performance
 
 | Criteria | TCP | UDP |
 | :--- | :--- | :--- |
