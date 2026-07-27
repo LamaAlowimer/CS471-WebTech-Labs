@@ -1,10 +1,8 @@
-# Lab Report: Django Framework & Git Version Control
+# Django and Basic Git operations (Lab 2): 
 
-**Student Name:** Lama  
-**Department:** Computer Science, Qassim University  
-
-## Objective
-This report documents the setup and configuration of a Django web application and its integration with the Git version control system.
+**Student Name:** لمى العويمر 
+**Student ID:** 432205254
+**Course:** Web Technologies (CS471)  
 
 ---
 
