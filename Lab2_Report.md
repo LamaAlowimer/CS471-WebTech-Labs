@@ -25,4 +25,7 @@
 
 ## 3. Part 2: Git System & Remote Connection
 the needed files are pushed to git repository successfully and all the ignored files are in .gitignore
-<img width="469" height="289" alt="image" src="https://github.com/user-attachments/assets/a22f0a48-1a3d-4dc2-9dc1-134ff93111a9" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a22f0a48-1a3d-4dc2-9dc1-134ff93111a9" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3b3fb931-e3c1-4924-b9d7-d74b85c4368e" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/28d4aa7c-208b-4b4b-975f-3f254ccf5175" />
+
