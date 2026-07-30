@@ -16,11 +16,10 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/037cc5af-1e72-43ab-81e0-e3979a73d739" />
 
 ### Task 2: Project Creation
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/149ddd84-7790-4c5d-8641-1949fba37064" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/624d02ec-b649-475b-86b6-6d6c0f481637" />
 
 ### Task 3: Application Configuration
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/c3578838-15b8-4f10-9368-0eee30260eb0" />
-
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/149ddd84-7790-4c5d-8641-1949fba37064" />
 
 ---
 
