@@ -13,13 +13,10 @@
 ## 2. Part 1: Django Web Development Framework
 
 ### Task 1: Environment Setup
-* Created an isolated Python virtual environment named `djangoenv` using the command `python3 -m venv djangoenv` to keep project dependencies separate.
-* Activated the virtual environment and installed the Django framework using PIP.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/037cc5af-1e72-43ab-81e0-e3979a73d739" />
 
 ### Task 2: Project Creation
-* Created a dedicated root directory named `DjangoProjects`.
-* Initialized a new Django project named `libraryproject` using the `django-admin startproject` command.
-* Tested the initial setup by running `python manage.py runserver` and successfully accessed the default Django layout on the localhost port `8000`.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/149ddd84-7790-4c5d-8641-1949fba37064" />
 
 ### Task 3: Application Configuration
 * Built the required internal structure by creating `apps/`, `apps/template/`, and `apps/static/` directories within the project ROOT folder.
