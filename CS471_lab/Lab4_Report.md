@@ -35,6 +35,17 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/aec50562-efdf-4105-a69a-ddbf2afea410" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/fd4e8aeb-ecb4-4d26-a59d-a052a3399c78" />
 
+---
+### Task 5: Additional implementation of Django tags to build one layout instead of repeating the layout for every HTML file:
+### 🚀 Updates: Implemented Django Template Inheritance
+
+* **Applied DRY Principle:** Refactored HTML files to eliminate code duplication across the project.
+* **Created Base Layout:** Added a master layout (`layouts/base.html`) to serve as the main structural backbone.
+* **Isolated UI Components:** Extracted shared components like the navigation bar into separate, reusable files (`includes/header.html`).
+* **Refactored Child Templates:** Updated all sub-pages (e.g., `index.html`, `aboutus.html`) to inherit from the base layout using `{% extends %}` and inject specific content via `{% block content %}`.
+<img  width="500" alt="image" src="https://github.com/user-attachments/assets/d654ad2f-96ec-4c2c-8812-ba488317ebaa" />
+<img  width="500" alt="image" src="https://github.com/user-attachments/assets/29c02dff-b503-4685-8e17-28736c9a435d" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e7bcb219-d7de-4ce3-914a-12fca1af9cd7" />
 
 
 
