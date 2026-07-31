@@ -10,3 +10,27 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ce9b6348-fbe4-47ef-988c-3142640b0057" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/06d43893-b723-4021-8e0f-d474f392a675" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/712dc293-f88b-4af8-818b-f9bc010cff06" />
+
+#### Task 1 - Step 4: index.html Browser Output
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/01b78ec3-4569-4d44-95c2-5ee7b70ea4c4" />
+
+---
+### Task 2: Style the previous HTML files with CSS in three ways (inline CSS, internal style element, and separated CSS file) 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/5c444f92-1755-4cae-aed4-27eae957dffc" />
+
+**Task 2 Execution Results:**
+* **External CSS:** The top navigation bar was successfully styled using the `styles.css` file.
+* **Active Class:** The current page link (Home) is highlighted with a distinct color to indicate the user's location.
+* **Inline CSS:** The main heading color was changed to blue, and a black background was added to the first paragraph directly within the HTML structure.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f2e2dbd9-8594-483d-8635-e320a48687b9" />
+---
+### Task 3: W3C HTML5 Validation
+<img  width="500" alt="image" src="https://github.com/user-attachments/assets/8ca1a7c7-0947-48f1-887b-225da17a3115" />
+---
+#### Step 6 ,7: 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/61875a20-0ebd-4783-9602-d3d243907d5b" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6b4d8c47-3a68-4317-a95b-b142444d13ab" />
+
+
+
