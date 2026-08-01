@@ -12,5 +12,7 @@ Click on any lab below to view the full report, code snippets, and screenshots:
 *  [**Lab 2: Version Control using Git & GitHub**](./Lab2_Report.md)
 *  [**Lab 3: Django Views, URLs, and Templates**](./libraryproject/Lab3_Report.md)
 *   [**Lab 4: HTML and CSS (Part 1)**](CS471_lab/Lab4_Report.md)
- *   [**Lab 5: HTML and CSS (Part 2)**](CS471_lab/Lab5_Report.md) 
- *   [**Lab 6: HTML and CSS (Part 2)**](CS471_lab/Lab6_Report.md) 
+ *   [**Lab 5: HTML and CSS (Part 2)**](CS471_lab/Lab5_Report.md)
+ *    [**Lab 6:Revision **](CS471_lab/Lab6_Report.md)
+ *    [**Lab 7:Django Models (Part 1)**](CS471_lab/Lab6_Report.md) 
+ 
