@@ -44,7 +44,7 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/52451817-6310-4e0b-a12e-66ef7c670a76" />
 
 ###### The new book  was added successfully
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/cd629708-e6a4-43c6-bb94-7978a607769d" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/cd629708-e6a4-43c6-bb94-7978a607769d" />
 
 
 
