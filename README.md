@@ -16,4 +16,9 @@ Click on any lab below to view the full report, code snippets, and screenshots:
  *   [**Lab 6:Revision**](CS471_lab/Lab6_Report.md)
  *    [**Lab 7:Django Models (Part 1)**](CS471_lab/Lab7_Report.md)
  *    [**Lab 8:Django Models (Part 2)**](CS471_lab/Lab8_Report.md)
+ * [**Lab 9:Django Models (Part 3)**](CS471_lab/Lab9_Report.md)
+ * [**Lab 10:Django Forms (Part 1)**](CS471_lab/Lab10_Report.md)
+ *  [**Lab 11:Django Forms (Part 2)**](CS471_lab/Lab11_Report.md)
+ *  [**Lab 12:Django Contrib Package**](CS471_lab/CS471_lab/Lab12_Report.md)
+ *  [**Lab 13:JavaScript Fundamentals (Part 1)**](CS471_lab/CS471_lab/Lab13_Report.md)
 
